@@ -42,10 +42,6 @@ npx serve .
 ```
 
 ---
-
-## 📷 **Screenshots** *(Optional)*  
-_Add screenshots of your website to showcase its design._
-
 ---
 
 ## 📬 **Contact Me**  
